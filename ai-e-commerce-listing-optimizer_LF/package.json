@@ -1,0 +1,12 @@
+
+{
+  "name": "ai-listing-optimizer",
+  "version": "1.0.0",
+  "description": "AI E-Commerce Listing Optimizer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "^0.13.0"
+  }
+}
